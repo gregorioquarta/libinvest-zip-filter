@@ -1,0 +1,28 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+button {
+  margin: 2rem;
+  border: 1px solid rgb(178, 218, 98);
+  padding: 0.5rem 2rem;
+  border-radius: 5px;
+  background-color: transparent;
+  color: rgb(178, 218, 98);
+  cursor: pointer;
+}
+.container-card {
+  margin-top: 4rem !important;
+  width: 60vw;
+  margin: auto;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.ui.card {
+  margin: 0em 1rem !important;
+}
+
+input{
+  margin: 1rem!important;
+}
